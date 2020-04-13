@@ -1,0 +1,8 @@
+1. Delete sorted repeat items
+当不能创建一个新的array， 只能在原有基础上修改，去掉repeat item。 此时需要2个index。 一个用于go over every item in the list, the other one use as Temp
+在判断之前先确定这个list不是空的
+
+def remrepeat(nums):
+  
+
+ 
